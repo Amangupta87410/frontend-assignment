@@ -25,24 +25,6 @@ This project contains two reusable React components implemented with **React + T
 
 ---
 
-## 📦 Setup Instructions
-
-Clone the repo and install dependencies:
-
-```bash
-git clone https://github.com/Amangupta87410/frontend-assignment.git
-cd frontend-assignment
-npm install
-
-# Run Storybook
-npm run storybook
-
-# Or run demo app
-npm run dev
-
-npm run build-storybook
-
-
 📘 Features Covered
 InputField
 
@@ -69,3 +51,29 @@ Row selection (single/multiple)
 Loading & empty state
 
 Custom cell rendering
+
+
+
+
+
+
+
+## 📦 Setup Instructions
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/Amangupta87410/frontend-assignment.git
+cd frontend-assignment
+npm install
+
+# Run Storybook
+npm run storybook
+
+# Or run demo app
+npm run dev
+
+npm run build-storybook
+
+
+
